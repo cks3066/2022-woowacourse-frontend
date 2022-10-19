@@ -79,7 +79,7 @@
 - | 미션          |                       배포 링크                        |                             코드리뷰 1차                              |                             코드리뷰 2차                              |                                      레포지토리                                      |
   | :------------ | :----------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
   | 웹 성능 오답노트        |  [링크](https://github.com/woowacourse/perf-basecamp/pull/64)   |     [PR](https://d394519yoru1kk.cloudfront.net/)      |     -     |              [Repository](https://github.com/cks3066/perf-basecamp/tree/cks3066)               |
-  | Module Typing      |   0   |      [PR](https://github.com/woowacourse/ts-module/pull/22)      |     -    |               [Repository](https://github.com/cks3066/ts-module/tree/cks3066)                |
+  | Module Typing      |   -   |      [PR](https://github.com/woowacourse/ts-module/pull/22)      |     -    |               [Repository](https://github.com/cks3066/ts-module/tree/cks3066)                |
   | 웹 접근성 1차      | [링크](https://a11y-airline-jlglkx7tk-cks3066.vercel.app/mission1) |   [PR](https://github.com/cks3066/a11y-airline)    |   -   |             [Repository](https://github.com/cks3066/react-shopping-cart)             |
   | 웹 접근성 2차 |  [링크](https://a11y-airline-jlglkx7tk-cks3066.vercel.app/mission2)  | [PR](https://github.com/woowacourse/a11y-airline/pull/66) | - | [Repository](https://github.com/cks3066/a11y-airline) |
 
